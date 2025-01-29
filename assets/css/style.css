@@ -6,7 +6,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #007BFF;
+    background-color: #00B88A;
     transform: translateX(-100%);
     transition: transform 0.5s ease-in-out;
     z-index: 999999;
@@ -71,7 +71,7 @@ input::-webkit-inner-spin-button {
 }
 
 :root {
-    --blue: #007BFF;
+    --blue: #00B88A;
     --black: #050505;
     --white: #fafafa;
     --gray: #c9c9c9;
